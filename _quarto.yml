@@ -6,16 +6,8 @@ website:
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-
+      - icon: ResearchGate
+        href: https://www.researchgate.net/profile/Andres-De-La-Rosa-Portilla-2?ev=hdr_xprf
+        
 editor: visual
 

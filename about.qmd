@@ -5,11 +5,8 @@ about:
   template: jolla
   links:
     - icon: ResearchGate
-      text: RG
-      href: https://www.researchgate.net/profile/Andres-De-La-Rosa-Portilla-2?ev=hdr_xprf
-    - icon: github
-      text: Github
-      href: https://github.com
+      text: ResearchGate
+      href: "https://www.researchgate.net"
 ---
 
 About this blog
