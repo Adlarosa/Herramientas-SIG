@@ -1,0 +1,9 @@
+---
+title: "Herramientas alternas de análisis"
+format: html
+author: "Andrés De la Rosa Portilla"
+date: "2025-03-04"
+categories: [news]
+---
+
+![](images/NDVI.png){fig-align="center"}
