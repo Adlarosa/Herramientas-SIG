@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Herramientas SIG",
     "section": "",
-    "text": "“-Andrés De la Rosa Portilla-”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHerramientas alternas de análisis\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nAndrés De la Rosa Portilla\n\n\n\n\n\n\n\n\n\n\n\n\nHola mundo del SIG y GIS\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nAndrés De la Rosa Portilla\n\n\n\n\n\n\nNo matching items"
+    "text": "“-Andrés De la Rosa Portilla-”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n¿NDVI?\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nAndrés De la Rosa Portilla\n\n\n\n\n\n\n\n\n\n\n\n\nHola mundo del SIG y GIS\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nAndrés De la Rosa Portilla\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "De SIG y cosas así",
     "section": "",
-    "text": "About this blog"
+    "text": "Acerca de este blog"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -30,8 +30,8 @@
   {
     "objectID": "posts/enlace/index.html",
     "href": "posts/enlace/index.html",
-    "title": "Herramientas alternas de análisis",
+    "title": "¿NDVI?",
     "section": "",
-    "text": "image: “D:/Documentos/ARP/Academia/INECOL/Capacitaciones/R UV Ciencias agrícolas/Imágenes\\NDVI.png”"
+    "text": "¿Para qué sirve el NDVI?\n¿Cómo se calcula el NDVI?\n¿Cómo calcular una década de NDVI sin un renglón de progrmación y sin morir en el intento?\nCopernicus navegador de imágenes Sentinel"
   }
 ]

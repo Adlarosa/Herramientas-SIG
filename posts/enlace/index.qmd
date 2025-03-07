@@ -1,9 +1,16 @@
 ---
-title: "Herramientas alternas de análisis"
-format: html
+title: "¿NDVI?"
 author: "Andrés De la Rosa Portilla"
 date: "2025-03-04"
 categories: [news]
 ---
 
 ![](images/NDVI.png){fig-align="center"}
+
+*¿Para qué sirve el NDVI?*
+
+*¿Cómo se calcula el NDVI?*
+
+¿Cómo calcular una década de NDVI sin un renglón de progrmación y sin morir en el intento?
+
+[Copernicus navegador de imágenes Sentinel](https://browser.dataspace.copernicus.eu/)

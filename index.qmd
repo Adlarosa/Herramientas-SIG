@@ -10,5 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-"-Andrés De la Rosa Portilla-"
----
+
+## "Andrés De la Rosa Portilla"
