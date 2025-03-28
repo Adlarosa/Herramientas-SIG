@@ -4,7 +4,7 @@
     "href": "posts/welcome/index.html",
     "title": "Hola mundo del SIG y GIS",
     "section": "",
-    "text": "Este es mi primer blog con R\n\n\n\n\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Bienvenido al mundo de los sistemas de información geográfica, desde 0 y hasta dónde se pueda aprender."
   },
   {
     "objectID": "index.html",
@@ -32,6 +32,6 @@
     "href": "posts/enlace/index.html",
     "title": "¿NDVI?",
     "section": "",
-    "text": "¿Para qué sirve el NDVI?\n¿Cómo se calcula el NDVI?\n¿Cómo calcular una década de NDVI sin un renglón de progrmación y sin morir en el intento?\nCopernicus navegador de imágenes Sentinel"
+    "text": "¿Para qué sirve el NDVI?\n¿Cómo se calcula el NDVI?\n¿Cómo calcular una década de NDVI sin un renglón de programación y sin morir en el intento?\nCopernicus navegador de imágenes Sentinel"
   }
 ]
