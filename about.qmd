@@ -6,7 +6,7 @@ about:
   links:
     - icon: ResearchGate
       text: ResearchGate
-      href: "https://www.researchgate.net"
+      href: "https://www.researchgate.net/profile/Andres-De-La-Rosa-Portilla-2?ev=hdr_xprf"
 ---
 
 Acerca de este blog
