@@ -1,5 +1,5 @@
 ---
-title: "¿También tienes calor en la ciudad?
+title: "¿También tienes calor en la ciudad?"
 author: "Andrés De la Rosa Portilla"
 date: "2025-03-04"
 categories: [news]
