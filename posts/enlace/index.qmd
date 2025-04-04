@@ -9,19 +9,17 @@ Es común percibir calor en varias actividades y épocas del año, lo que no es 
 
 ![](images/clipboard-2473625925.png){fig-align="center" width="184"}
 
-En este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo de vida genera emisiones de gases de efecto invernadero, intensificando así los impactos del cambio climático. Esto se refleja entre otras cosas en las temperaturas extremas mundiales. En 2025, la *Unión Europea* a través de su componente de observación de la tierra [Copernico](https://www.copernicus.eu/en/about-copernicus) y el [servicio de cambio climático](https://climate.copernicus.eu/global-climate-highlights-2024), emitieron un **reporte de las temperaturas, destacando que 2024 fue:**
+En este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo de vida genera emisiones de gases de efecto invernadero, intensificando así los impactos del cambio climático. Esto se refleja entre otras cosas en las temperaturas extremas mundiales. En 2025, la *Unión Europea* a través de su componente de observación de la tierra [Copernico](https://www.copernicus.eu/en/about-copernicus) y el [servicio de cambio climático](https://climate.copernicus.eu/global-climate-highlights-2024), emitieron un **reporte de las temperaturas, destacando que** l**os últimos diez años han sido los más cálidos registrados y 2024 fue:**
 
 -   El año más cálido registrado desde 1850.
 
 -   Superó el récord de 2023 en .12 °C.
 
--   72 °C más cálido que el promedio de 1991-2020.
+-   .72 °C más cálido que el promedio de 1991-2020.
 
 -   Con 1.60 °C, fue el primer año en superar el umbral de 1.5 °C.
 
--   Los últimos diez años han sido los más cálidos registrados.
-
--   El 22 de julio de 2024, se registró la temperatura media global diaria más alta de la historia: 17.16 °C.
+-   El 22 de julio (2024), se registró la temperatura media global diaria más alta de la historia, 17.16 °C.
 
 ![](images/Temperatura%20mundial.png){fig-align="center" width="433"}
 
