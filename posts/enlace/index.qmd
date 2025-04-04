@@ -5,7 +5,7 @@ date: "2025-03-04"
 categories: [news]
 ---
 
-# ***El planeta siente [calor]{style="color:red; "}*** {#sec-el-planeta-siente-calor-}
+# *El planeta siente [calor]{style="color:red; "}* {#sec-el-planeta-siente-calor-}
 
 Es común percibir calor en varias actividades y épocas del año, lo que no es común es que tengamos calor en diciembre o que varias semanas estemos expuestos y percibiendo un calor casi insoportable incluso por las noches. Según la Organización Meteorológica Mundial, la variabilidad de la temperatura y del clima puede ser natural cuando se presenta el fenómeno conocido como [El Niño](#0){style="(El Niño color:orange)"} , provocando que las aguas del océano Pacífico, en su parte central y oriental, se calientan más de lo normal, provocando cambios en el clima de todo el planeta. Así que esta variabilidad se suma a los efectos derivados del cambio climático que nosotros hemos provocado. Sin embargo, para que este cambio de clima sea atribuido a los efectos del cambio climático, la [Convención Marco de las Naciones Unidas sobre el cambio climático de 1992 en su artículo 1, numeral 2](https://unfccc.int/resource/docs/convkp/convsp.pdf), indica en su definición que el fenómeno en cuestión en este caso la elevada temperatura, debe observarse durante periodos de tiempo comparables, como lo indica en la definición:
 
@@ -13,7 +13,7 @@ Es común percibir calor en varias actividades y épocas del año, lo que no es 
 
 ***“Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera global y que se suma a la variabilidad natural del clima observada durante períodos de tiempo comparables".***
 
-En este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo de vida genera emisiones de gases de efecto invernadero, intensificando así los impactos del cambio climático. Esto se refleja entre otras cosas en las temperaturas extremas mundiales. En 2025, la *Unión Europea* a través de su componente de observación de la tierra [Copernico](https://www.copernicus.eu/en/about-copernicus) y el [servicio de cambio climático](https://climate.copernicus.eu/global-climate-highlights-2024), emitieron un **reporte de las temperatura, destacando que 2024 fue:**
+En este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo de vida genera emisiones de gases de efecto invernadero, intensificando así los impactos del cambio climático. Esto se refleja entre otras cosas en las temperaturas extremas mundiales. En 2025, la *Unión Europea* a través de su componente de observación de la tierra [Copernico](https://www.copernicus.eu/en/about-copernicus) y el [servicio de cambio climático](https://climate.copernicus.eu/global-climate-highlights-2024), emitieron un **reporte de las temperaturas, destacando que 2024 fue:**
 
 -   El año más cálido registrado desde 1850.
 
@@ -33,11 +33,11 @@ De esta forma, hemos aumentado la temperatura global del aire superficial (ºC) 
 
 ![](images/.Anomalías en la tyemperatura del aire 2024.png){fig-align="center" width="469"}
 
-# ***Cambio climático y sus efectos en Latinoamérica***
+# *Cambio climático y sus efectos en Latinoamérica*
 
-# ***México, los efectos del cambio climático y el calor***
+# *México, los efectos del cambio climático y el calor*
 
-# ***¿Olas de calor? ¿Islas urbanas de calor?***
+# *¿Olas de calor? ¿Islas urbanas de calor?*
 
 # ¿Hace más calor? Caso: Xalapa-Enríquez, Veracruz, México.
 
