@@ -27,11 +27,11 @@ En este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo
 
 -   El 22 de julio de 2024, se registró la temperatura media global diaria más alta de la historia: 17.16 °C.
 
-![](images/Temperatura mundial.png){fig-align="center" width="433"}
+![](images/Temperatura%20mundial.png){fig-align="center" width="433"}
 
 De esta forma, hemos aumentado la temperatura global del aire superficial (ºC) por encima del promedio para el período de referencia preindustrial (1850-1900), como lo indican varios conjuntos de datos de temperatura global en la imagen superior. Y en Latinoamérica, si sentiste mucho calor en 2024, fue totalmente real, ya que como puedes ver en la siguiente imagen, en esta región se presentaron anomalías y extremos de temperatura.
 
-![](images/.Anomalías en la tyemperatura del aire 2024.png){fig-align="center" width="469"}
+![](images/.Anomalías en la tyemperatura del aire 2024.png){fig-align="center" width="425"}
 
 # *Cambio climático y sus efectos en Latinoamérica*
 
