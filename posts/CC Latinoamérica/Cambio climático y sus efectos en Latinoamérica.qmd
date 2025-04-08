@@ -1,4 +1,6 @@
 ---
 title: "Los efectos del cambio climático en Latinoamérica  "
-format: html
+author: "Andrés De la Rosa Portilla"
+date: "2025-04-08"
+categories: [El futuro hoy]
 ---

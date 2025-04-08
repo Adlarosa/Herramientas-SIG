@@ -2,9 +2,11 @@
 title: "Hola mundo del SIG y GIS"
 author: "Andrés De la Rosa Portilla"
 date: "2025-03-04"
-categories: [news]
+categories: [Sobre el autor]
 ---
 
 ![](images/SIG.png){fig-align="center"}
 
-Bienvenido al mundo de los sistemas de información geográfica, desde 0 y hasta dónde se quiera aprender.
+Bienvenido al mundo de los sistemas de información geográfica como una herramienta aplicada.
+
+Andrés De la Rosa Portilla ...
