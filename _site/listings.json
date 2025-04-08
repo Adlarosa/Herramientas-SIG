@@ -3,8 +3,27 @@
     "listing": "/index.html",
     "items": [
       "/posts/CC Latinoamérica/Cambio climático y sus efectos en Latinoamérica.html",
+      "/posts/Pizzas/template-full.html",
       "/posts/El planeta se calienta/El planeta se calienta.html",
       "/posts/welcome/Bienvenida.html"
+    ]
+  },
+  {
+    "listing": "/index.pdf",
+    "items": [
+      "/posts/CC Latinoamérica/Cambio climático y sus efectos en Latinoamérica.pdf",
+      "/posts/Pizzas/template-full.html",
+      "/posts/El planeta se calienta/El planeta se calienta.pdf",
+      "/posts/welcome/Bienvenida.pdf"
+    ]
+  },
+  {
+    "listing": "/index.docx",
+    "items": [
+      "/posts/CC Latinoamérica/Cambio climático y sus efectos en Latinoamérica.docx",
+      "/posts/Pizzas/template-full.html",
+      "/posts/El planeta se calienta/El planeta se calienta.docx",
+      "/posts/welcome/Bienvenida.docx"
     ]
   }
 ]
