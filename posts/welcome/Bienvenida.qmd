@@ -5,7 +5,7 @@ date: "2025-03-04"
 categories: [Sobre el autor]
 ---
 
-![](images/SIG.png){fig-align="center"}
+![](images/SIG.png){fig-align="center" width="548"}
 
 Bienvenido al mundo de los sistemas de información geográfica como una herramienta aplicada.
 
