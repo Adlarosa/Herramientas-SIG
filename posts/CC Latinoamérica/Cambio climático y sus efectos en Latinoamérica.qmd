@@ -4,3 +4,13 @@ author: "Andrés De la Rosa Portilla"
 date: "2025-04-08"
 categories: [El futuro hoy]
 ---
+
+# ¿Más calor, menos lluvia?
+
+En 2024 hizo más calor de lo normal en América Latina y el Caribe, con un aumento de casi un grado en promedio (.9 °C). En varias regiones, como Centroamérica, el Caribe y México, fue el año más caluroso registrado. Además, las tendencias indican que México es el país con mayor incremento de temperatura. Este calor se refleja en nuestras ciudades, generando un estrés térmico que afecta a todos los seres vivos,
+
+![](images/Tendencias%20de%20la%20t%20LATAM.png){fig-align="center"}
+
+Además del calor, la variabilidad climática se refleja en una intensidad hidrológica. Tenemos periodos más prolongados e intensos de sequía, pero cuando llueve, el agua que se precipita lo hace en una cantidad mayor a lo esperado. Vivimos en los extremos del agua.
+
+Fuente: [Organización Meteorológica Mundial, 2025](https://library.wmo.int/records/item/69463-estado-del-clima-en-america-latina-y-el-caribe-2024)

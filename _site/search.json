@@ -9,14 +9,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Herramientas SIG",
+    "title": "Cocinando (nos) a fuego lento",
     "section": "",
-    "text": "“-Andrés De la Rosa Portilla-”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n¿NDVI?\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nAndrés De la Rosa Portilla\n\n\n\n\n\n\n\n\n\n\n\n\nHola mundo del SIG y GIS\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 4, 2025\n\n\nAndrés De la Rosa Portilla\n\n\n\n\n\n\nNo matching items"
+    "text": "La espiral del clima desde 1880 al 2025."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "De SIG y cosas así",
+    "title": "La anormalidad, nuestra nueva normalidad",
     "section": "",
     "text": "Acerca de este blog"
   },
@@ -46,7 +46,7 @@
     "href": "posts/El planeta se calienta/El planeta se calienta.html",
     "title": "El planeta siente calor",
     "section": "",
-    "text": "Es común percibir calor en varias actividades y épocas del año, lo que no es común es que tengamos calor en diciembre o que varias semanas estemos expuestos y percibiendo un calor casi insoportable incluso por las noches. Según la Organización Meteorológica Mundial, la variabilidad de la temperatura y del clima puede ser natural cuando se presenta el fenómeno conocido como El Niño , provocando que las aguas del océano Pacífico, en su parte central y oriental, se calientan más de lo normal, provocando cambios en el clima de todo el planeta. Así que esta variabilidad se suma a los efectos derivados del cambio climático que nosotros hemos provocado. Sin embargo, para que este cambio de clima sea atribuido a los efectos del cambio climático, la Convención Marco de las Naciones Unidas sobre el cambio climático de 1992, indica en su definición que el fenómeno en cuestión en este caso la elevada temperatura, debe observarse durante periodos de tiempo comparables.\n\n\n\n\n\nEn este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo de vida genera emisiones de gases de efecto invernadero, intensificando así los impactos del cambio climático. Esto se refleja entre otras cosas en las temperaturas extremas mundiales. En 2025, la Unión Europea a través de su componente de observación de la tierra Copernico y el servicio de cambio climático, emitieron un reporte de las temperaturas, destacando que los últimos diez años han sido los más cálidos registrados y 2024 fue:\n\nEl año más cálido registrado desde 1850.\nSuperó el récord de 2023 en .12 °C.\n.72 °C más cálido que el promedio de 1991-2020.\nCon 1.60 °C, fue el primer año en superar el umbral de 1.5 °C.\nEl 22 de julio (2024), se registró la temperatura media global diaria más alta de la historia, 17.16 °C.\n\n\n\n\n\n\nDe esta forma, hemos aumentado la temperatura global del aire superficial (ºC) por encima del promedio para el período de referencia preindustrial (1850-1900), como lo indican varios conjuntos de datos de temperatura global en la imagen superior. Y en Latinoamérica, si sentiste mucho calor en 2024, fue totalmente real, ya que como puedes ver en la siguiente imagen, en esta región se presentaron anomalías y extremos de temperatura.\n\n\n\n\n\n\nMéxico, los efectos del cambio climático y el calor\n\n\n¿Olas de calor? ¿Islas urbanas de calor?\n\n\n¿Hace más calor? Caso: Xalapa-Enríquez, Veracruz, México.\n\n\n¿Qué tanto ha cambiado la temperatura en tu ciudad y colonia?"
+    "text": "Es común percibir calor en varias actividades y épocas del año, lo que no es común es que tengamos calor en diciembre o que varias semanas estemos expuestos y percibiendo un calor casi insoportable incluso por las noches. Según la Organización Meteorológica Mundial, la variabilidad de la temperatura y del clima puede ser natural cuando se presenta el fenómeno conocido como El Niño , provocando que las aguas del océano Pacífico, en su parte central y oriental, se calientan más de lo normal, provocando cambios en el clima de todo el planeta. Así que esta variabilidad se suma a los efectos derivados del cambio climático que nosotros hemos provocado. Sin embargo, para que este cambio de clima sea atribuido a los efectos del cambio climático, la Convención Marco de las Naciones Unidas sobre el cambio climático de 1992, indica en su definición que el fenómeno en cuestión en este caso la elevada temperatura, debe observarse durante periodos de tiempo comparables.\n\n\n\n\n\nEn este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo de vida genera emisiones de gases de efecto invernadero, intensificando así los impactos del cambio climático. Esto se refleja entre otras cosas en las temperaturas extremas mundiales. En 2025, la Unión Europea a través de su componente de observación de la tierra Copernico y el servicio de cambio climático, emitieron un reporte de las temperaturas, destacando que los últimos diez años han sido los más cálidos registrados y 2024 fue:\n\nEl año más cálido registrado desde 1850.\nSuperó el récord de 2023 en .12 °C.\n.72 °C más cálido que el promedio de 1991-2020.\nCon 1.60 °C, fue el primer año en superar el umbral de 1.5 °C.\nEl 22 de julio (2024), se registró la temperatura media global diaria más alta de la historia, 17.16 °C.\n\n\n\n\n\n\nDe esta forma, hemos aumentado la temperatura global del aire superficial (ºC) por encima del promedio para el período de referencia preindustrial (1850-1900), como lo indican varios conjuntos de datos de temperatura global en la imagen superior. Y en Latinoamérica, si sentiste mucho calor en 2024, fue totalmente real, ya que como puedes ver en la siguiente imagen, en esta región se presentaron anomalías y extremos de temperatura."
   },
   {
     "objectID": "posts/welcome/Bienvenida.html",
@@ -89,5 +89,61 @@
     "title": "Quarto Academic Typst",
     "section": "Tables",
     "text": "Tables\nYou can use tinytable for general tables and modelsummary for regression tables. As Table 1 shows, the caption is displayed above the table. The notes of the table can be added using the notes argument of the tinytable::tt() function.\n\n\n\n\nTable 1: Summary Statistics of Penguins\n\n\n\n\n\n    \n\n    \n    \n      \n        \n\n \nMale\nFemale\n\n        \n              \n                \n                Bill Length (mm)\n                Bill Depth (mm)\n                Flipper Length (mm)\n                Body Mass (g)\n                Bill Length (mm)\n                Bill Depth (mm)\n                Flipper Length (mm)\n                Body Mass (g)\n              \n        \n        _Notes_: Data from Palmer penguins dataset.\n        \n                \n                  Adelie\n                  40.39\n                  19.07\n                  192.4\n                  4043\n                  37.26\n                  17.62\n                  187.8\n                  3369\n                \n                \n                  Gentoo\n                  49.47\n                  15.72\n                  221.5\n                  5485\n                  45.56\n                  14.24\n                  212.7\n                  4680\n                \n                \n                  Chinstrap\n                  51.09\n                  19.25\n                  199.9\n                  3939\n                  46.57\n                  17.59\n                  191.7\n                  3527\n                \n        \n      \n    \n\n\n\n\n\n\nSince the default backend of modelsummary is tinytable, you can use the customization options of tinytable for modelsummary. In Table 2, I use tinytable::group_tt() function to group the regression results by the dependent variables\n\n\n\n\nTable 2: Regression Results of Penguins\n\n\n\n\n\n    \n\n    \n    \n      \n        \n\n \nBill Length (mm)\nBody Mass (g)\n\n        \n              \n                 \n                (1)\n                (2)\n                (3)\n                (4)\n                (5)\n                (6)\n              \n        \n        + p &lt; 0.1, * p &lt; 0.05, ** p &lt; 0.01\n_Notes_: Data from Palmer penguins dataset.\n        \n                \n                  Chinstrap\n                  10.042**\n                  10.010**\n                  10.037**\n                  32.426\n                  26.924\n                  27.229\n                \n                \n                  \n                  (0.432)\n                  (0.341)\n                  (0.340)\n                  (67.512)\n                  (46.483)\n                  (46.587)\n                \n                \n                  Gentoo\n                  8.713**\n                  8.698**\n                  8.693**\n                  1375.354**\n                  1377.858**\n                  1377.813**\n                \n                \n                  \n                  (0.360)\n                  (0.287)\n                  (0.286)\n                  (56.148)\n                  (39.104)\n                  (39.163)\n                \n                \n                  Male\n                  \n                  3.694**\n                  3.694**\n                  \n                  667.555**\n                  667.560**\n                \n                \n                  \n                  \n                  (0.255)\n                  (0.254)\n                  \n                  (34.704)\n                  (34.755)\n                \n                \n                  Year\n                  \n                  \n                  0.324*\n                  \n                  \n                  3.629\n                \n                \n                  \n                  \n                  \n                  (0.156)\n                  \n                  \n                  (21.428)\n                \n                \n                  Observations\n                  342\n                  333\n                  333\n                  342\n                  333\n                  333\n                \n        \n      \n    \n\n\n\n\n\n\nWhile tinytable generates compatible tables between LaTeX and Typst, it does not support LaTeX math expressions for Typst tables. I think the compatibility between LaTeX and Typst is crucial for academic writing because it guarantees that the document can be easily converted to LaTeX for submission to journals.\nA workaround is to use MiTeX, a Typst package that allows you to use LaTeX math expressions in Typst. I write a custom theme for tinytable to convert LaTeX math expressions to MiTeX expressions. The following table includes LaTeX math expressions but will be converted to MiTeX expressions in the Typst output.\n\n\n\n\nTable 3: Math Symbols\n\n\n\n\n\n    \n    \n    \n    \n\n    \n\n    \n    \n      \n        \n        \n              \n                Math\n              \n        \n        \n        \n                \n                  $\\alpha$\n                \n                \n                  $a_{it}$\n                \n                \n                  $e^{i\\pi} + 1 = 0$"
+  },
+  {
+    "objectID": "Presentación.html#diapo-2",
+    "href": "Presentación.html#diapo-2",
+    "title": "Prueba presentación",
+    "section": "Diapo 2",
+    "text": "Diapo 2"
+  },
+  {
+    "objectID": "Presentación.html#prueba",
+    "href": "Presentación.html#prueba",
+    "title": "Prueba presentación",
+    "section": "Prueba",
+    "text": "Prueba"
+  },
+  {
+    "objectID": "Presentaciones/Presentación.html#diapo-2",
+    "href": "Presentaciones/Presentación.html#diapo-2",
+    "title": "Prueba presentación",
+    "section": "Diapo 2",
+    "text": "Diapo 2"
+  },
+  {
+    "objectID": "Presentaciones/Presentación.html#prueba",
+    "href": "Presentaciones/Presentación.html#prueba",
+    "title": "Prueba presentación",
+    "section": "Prueba",
+    "text": "Prueba"
+  },
+  {
+    "objectID": "posts/CC Latinoamérica/Cambio climático y sus efectos en Latinoamérica.html",
+    "href": "posts/CC Latinoamérica/Cambio climático y sus efectos en Latinoamérica.html",
+    "title": "Los efectos del cambio climático en Latinoamérica",
+    "section": "",
+    "text": "¿Más calor, menos lluvia?\nEn 2024 hizo más calor de lo normal en América Latina y el Caribe, con un aumento de casi un grado en promedio (.9 °C). En varias regiones, como Centroamérica, el Caribe y México, fue el año más caluroso registrado. Además, las tendencias indican que México es el país con mayor incremento de temperatura. Este calor se refleja en nuestras ciudades, generando un estrés térmico que afecta a todos los seres vivos,\n\n\n\n\n\nAdemás del calor, la variabilidad climática se refleja en una intensidad hidrológica. Tenemos periodos más prolongados e intensos de sequía, pero cuando llueve, el agua que se precipita lo hace en una cantidad mayor a lo esperado. Vivimos en los extremos del agua.\nFuente: Organización Meteorológica Mundial, 2025"
+  },
+  {
+    "objectID": "posts/Calor en México/CalorMx.html",
+    "href": "posts/Calor en México/CalorMx.html",
+    "title": "Los extremos del clima",
+    "section": "",
+    "text": "title: “Calor en México”\nauthor: “Andrés De la Rosa Portilla”\ndate: “2025-04-08”\ncategories: [El futuro hoy]"
+  },
+  {
+    "objectID": "posts/Calor en México/Calor Mx.html",
+    "href": "posts/Calor en México/Calor Mx.html",
+    "title": "Calor Mx",
+    "section": "",
+    "text": "En México la variabilidad climática ha tenido manifestaciones extremas: Tamaulipas y Nuevo León llegando al día cero (sin agua), y estados como Veracruz y algunas otras ciudades de la república inundándose. La temperatura media del aire en México ha aumentado alrededor de 1.69 ºC con respecto a inicios del siglo XX. Este incremento y la tasa de aumento en la temperatura del aire anual promedio son mayores que el promedio global y es espacialmente heterogéneo, con incrementos en el norte y sureste del país.\nAdemás, las olas de calor y nuestros “descuidos” han provocado incendios forestales, que avivan aún mas las afectaciones a los ecosistemas y los bienes y servicios ambientales que nos facilitan. En las ciudades, este calor se ve intensificados por los materiales que retienen y después liberan el calor, generándose micro islas de calor urbano."
+  },
+  {
+    "objectID": "index.html#andrés-de-la-rosa-portilla",
+    "href": "index.html#andrés-de-la-rosa-portilla",
+    "title": "Cocinando (nos) a fuego lento",
+    "section": "",
+    "text": "La espiral del clima desde 1880 al 2025."
   }
 ]

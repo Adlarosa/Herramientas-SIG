@@ -26,11 +26,3 @@ En este contexto, existen pruebas irrefutables que demuestran cómo nuestro modo
 De esta forma, hemos aumentado la temperatura global del aire superficial (ºC) por encima del promedio para el período de referencia preindustrial (1850-1900), como lo indican varios conjuntos de datos de temperatura global en la imagen superior. Y en Latinoamérica, si sentiste mucho calor en 2024, fue totalmente real, ya que como puedes ver en la siguiente imagen, en esta región se presentaron anomalías y extremos de temperatura.
 
 ![](images/.Anomalías%20en%20la%20tyemperatura%20del%20aire%202024.png){fig-align="center" width="425"}
-
-# *México, los efectos del cambio climático y el calor*
-
-# *¿Olas de calor? ¿Islas urbanas de calor?*
-
-# ¿Hace más calor? Caso: Xalapa-Enríquez, Veracruz, México.
-
-# ¿Qué tanto ha cambiado la temperatura en tu ciudad y colonia?

@@ -1,5 +1,5 @@
 ---
-title: "De SIG y cosas así"
+title: "La anormalidad, nuestra nueva normalidad"
 image: "Imagen-base.png"
 about:
   template: jolla

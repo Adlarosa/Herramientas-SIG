@@ -1,0 +1,12 @@
+---
+title: "Prueba presentación"
+author: "ARP"
+format: revealjs
+footer: "[inicio](../index.qmd)"
+---
+
+## Diapo 2
+
+------------------------------------------------------------------------
+
+## Prueba
