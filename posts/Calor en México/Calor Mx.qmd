@@ -1,0 +1,11 @@
+---
+title: "Calor Mx"
+author: "Andrés De la Rosa Portilla"
+format: html
+date: "2025-05-30"
+categories: [El futuro hoy]
+---
+
+En México la variabilidad climática ha tenido manifestaciones extremas: Tamaulipas y Nuevo León llegando al día cero (sin agua), y estados como Veracruz y algunas otras ciudades de la república inundándose. La temperatura media del aire en México ha aumentado alrededor de 1.69 ºC con respecto a inicios del siglo XX. Este incremento y la tasa de aumento en la temperatura del aire anual promedio son mayores que el promedio global y es espacialmente heterogéneo, con incrementos en el norte y sureste del país.
+
+Además, las olas de calor y nuestros "descuidos" han provocado incendios forestales, que avivan aún mas las afectaciones a los ecosistemas y los bienes y servicios ambientales que nos facilitan. En las ciudades, este calor se ve intensificados por los materiales que retienen y después liberan el calor, generándose micro islas de calor urbano.

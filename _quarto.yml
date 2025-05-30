@@ -1,8 +1,12 @@
 project:
   type: website
 
+format:
+  html:
+    theme: superhero
+    
 website:
-  title: "Herramientas SIG"
+  title: "Los extremos del clima"
   navbar:
     right:
       - about.qmd

@@ -1,5 +1,5 @@
 ---
-title: "Herramientas SIG"
+title: "[Cocinando (nos) a fuego lento]{style=color:red;}"
 listing:
   contents: posts
   sort: "date desc"
@@ -11,4 +11,8 @@ page-layout: full
 title-block-banner: true
 ---
 
-## "Andrés De la Rosa Portilla"
+##                                 "Andrés De la Rosa Portilla"
+
+La espiral del clima desde 1880 al 2025.
+
+[![](images/Cono CC.png "SubbaRao et al., 2023"){fig-align="center"}](https://svs.gsfc.nasa.gov/5190#media_group_372819)
