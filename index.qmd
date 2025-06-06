@@ -1,5 +1,5 @@
 ---
-title: "[Cocinando (nos) a fuego lento]{style=color:red;}"
+title: "[Cocinando (nos) a fuego lento]{style=color:orange;}"
 listing:
   contents: posts
   sort: "date desc"
@@ -13,9 +13,9 @@ title-block-banner: true
 
 ## "Andrés De la Rosa Portilla"
 
-La espiral del clima desde 1880 al 2025.
+## [La espiral del clima desde 1880 al 2025.](https://svs.gsfc.nasa.gov/5190)
 
-## Visualización de la temperatura global
+SubbaRao et al., 2023. Estudio de visualización científica de la NASA.
 
 <video width="800" height="450" controls>
 

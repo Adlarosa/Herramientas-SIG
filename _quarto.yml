@@ -4,14 +4,27 @@ project:
 format:
   html:
     theme: superhero
-    
+
 website:
   title: "Los extremos del clima"
+  
   navbar:
     right:
-      - about.qmd
+      - text: Inicio
+        href: index.qmd
+      - text: Acerca de
+        href: about.qmd
+      - text: Categorías
+        menu:
+          - text: Todas
+            href: index.qmd
+          - text: Cambio climático
+            href: categoria-cambio-climatico.qmd
+          - text: Eventos extremos
+            href: categoria-eventos-extremos.qmd
       - icon: ResearchGate
         href: https://www.researchgate.net/profile/Andres-De-La-Rosa-Portilla-2?ev=hdr_xprf
-        
-editor: visual
 
+lang: es
+
+editor: visual
