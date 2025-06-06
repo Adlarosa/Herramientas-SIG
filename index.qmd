@@ -11,8 +11,14 @@ page-layout: full
 title-block-banner: true
 ---
 
-##                                 "Andrés De la Rosa Portilla"
+## "Andrés De la Rosa Portilla"
 
 La espiral del clima desde 1880 al 2025.
 
-[![](images/Cono CC.png "SubbaRao et al., 2023"){fig-align="center"}](https://svs.gsfc.nasa.gov/5190#media_group_372819)
+## Visualización de la temperatura global
+
+<video width="800" height="450" controls>
+
+<source src="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005190/GISTEMP_Spiral_Spanish_degC_2160p60.mp4" type="video/mp4">
+
+Tu navegador no soporta la reproducción de video HTML5. </video>
